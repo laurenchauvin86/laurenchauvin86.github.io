@@ -55,11 +55,11 @@ nameOfFunction();
 	physikz.updatePosition( /* Your Bracket Notation HERE */ );
 }
             // TODO 5 : Call game.checkCirclePosition() on your circles.
-           game.checkCirclePosition( /* Your Bracket Notation HERE */ );
-game.checkCirclePosition( /* Your Bracket Notation HERE */ );
-game.checkCirclePosition( /* Your Bracket Notation HERE */ );
-game.checkCirclePosition( /* Your Bracket Notation HERE */ );
-game.checkCirclePosition( /* Your Bracket Notation HERE */ );
+    game.checkCirclePosition( /* Your Bracket Notation HERE */ );
+    game.checkCirclePosition( /* Your Bracket Notation HERE */ );
+    game.checkCirclePosition( /* Your Bracket Notation HERE */ );
+    game.checkCirclePosition( /* Your Bracket Notation HERE */ );
+    game.checkCirclePosition( /* Your Bracket Notation HERE */ );
 
             // TODO 8 : Iterate over the array
            
